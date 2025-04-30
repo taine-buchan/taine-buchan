@@ -2,10 +2,11 @@
 
 **I like to build things that live on the web** 
 
-### 🔭 Currently
+### 🔭 Currently 
 - Developing personal projects with React & TypeScript
 - Seeking a frontend developer role
 - Expanding my technical toolkit
+- Drinking a black coffee
 
 ### 🌱 Learning
 - Advanced React patterns and best practices
