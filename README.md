@@ -1,6 +1,6 @@
 # 👋 I'm Taine
 
-**I like to build things that live on the web** 
+**I like to design & build things that live on the web** 
 
 ### 🔭 Currently 
 - Developing personal projects with React & TypeScript
