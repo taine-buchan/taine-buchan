@@ -4,7 +4,7 @@
 
 ### 🔭 Currently 
 - Developing personal projects with React & TypeScript
-- Seeking a frontend developer role
+- Seeking a frontend/full-stack developer role
 - Expanding my technical toolkit
 - Drinking a black coffee
 
@@ -31,11 +31,11 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
 
-### ⚡ Facts
+### ⚡ Other fun stuff
 - Former advertising creative (made 80+ McDonald's social ads!)
 - Musician
 - Rugby league fanatic
-- Libra who actually likes balance (in code and life)
+- Libra who actually likes balance (in code and life 🔮)
 
 ### Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/taine-buchan)
