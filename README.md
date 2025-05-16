@@ -2,19 +2,19 @@
 
 **I like to design & build things that live on the web** 
 
-### 🔭 Currently 
+### Currently 
 - Developing personal projects with React & TypeScript
 - Seeking a frontend/full-stack developer role
 - Expanding my technical toolkit
 - Drinking a black coffee
 
-### 🌱 Learning
-- Advanced React patterns and best practices
+### Learning
+- React patterns and best practices
 - UI component libraries and design systems
-- PostgreSQL and database optimisation
+- PostgreSQL and database systems
 
   
-### 💻 Tech Stack
+### Tech Stack
 **Frontend:**  
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -31,6 +31,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
 
+
 ### ⚡ Other fun stuff
 - Former advertising creative (made 80+ McDonald's social ads!)
 - Musician
@@ -40,5 +41,5 @@
 ### Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/taine-buchan)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tainebuchanwork@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF7139?style=flat&logo=firefox&logoColor=white)](https://tainebuchanportfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF7139?style=flat&logo=firefox&logoColor=white)](https://tainebuchan.com)
 
